@@ -17,3 +17,7 @@ The datasets have been merged to perform analysis with the purpose of getting in
 ### Tools Used
 
 For ths project Python and its modules such as pandas, numpy and matplotlib have been used. The codes have been run on jupyter notebook.
+
+### The Author
+
+This project has been designed and performed by Kaveh Amini (kvhmni@gmail.com).
