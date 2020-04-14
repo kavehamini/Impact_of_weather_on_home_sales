@@ -18,6 +18,12 @@ The datasets have been merged to perform analysis with the purpose of getting in
 
 For ths project Python and its modules such as pandas, numpy and matplotlib have been used. The codes have been run on jupyter notebook.
 
+
+### Conclusion
+
+The house prices are dependent on different properties of the houses such as their living area square footage or basement as well as their number of bedrooms and floors. However there is no clear correlation between different weather conditions and house prices or sales. The house sales dataset is from King County, WA where the weather does not fluctuate much throughout the year. With a mild winter and not very hot summer, with only few days with temperatures below zero or humidities below 50%, we can say the weather conditions is fairly and always constant in this region. The results however could be different if the data for a region with different weather conditions throughout the year was analyzed
+
+
 ### The Author
 
 This project has been designed and performed by Kaveh Amini (kvhmni@gmail.com).
