@@ -1,6 +1,6 @@
 # Impact of weather on home sales
 
-This Project Investigates the impact of weather on home sales and home prices in King County, US. The explanations for the findings have been included in the Jupyter Notebook.
+This Project Investigates the impact of weather on house sales and house prices in King County, US. The dependence of house prices on different features of the houses such as square feet living, square feet basement, number of stories, number of bedrooms, etc as well as the impact of different weather conditions such as temperature, cloudliness and humidity on both house prices and sales have been investigated. The explanations for the findings have been included in the Jupyter Notebook.
 
 ### The Data
 
