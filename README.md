@@ -35,6 +35,9 @@ The price shows a direct correlation with the living area in square feet.
 
 <img src="https://github.com/kavehamini/Impact_of_weather_on_home_sales/blob/master/The%20Project/housepricesvssqrftliving.png">
 
+Also the houses with 2.5 stories seem to have the highest average price.
+
+<img src="https://github.com/kavehamini/Impact_of_weather_on_home_sales/blob/master/The%20Project/housepricesvssqrftfloors.png">
 
 
 
