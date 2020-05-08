@@ -31,6 +31,10 @@ The houses with 8 bedrooms appear to be have the highest average price.
 
 <img src="https://github.com/kavehamini/Impact_of_weather_on_home_sales/blob/master/The%20Project/housepricesvsbedrooms.png">
 
+The price shows a direct correlation with the living area in square feet.
+
+<img src="https://github.com/kavehamini/Impact_of_weather_on_home_sales/blob/master/The%20Project/housepricesvssqrftliving.png">
+
 
 
 
