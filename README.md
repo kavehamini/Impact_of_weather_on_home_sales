@@ -45,6 +45,8 @@ With regards to the impact of weather conditions on house Prices, no clear impac
 
 <img src="https://github.com/kavehamini/Impact_of_weather_on_home_sales/blob/master/The%20Project/temperaturevshouseprices.png">
 
+<img src="https://github.com/kavehamini/Impact_of_weather_on_home_sales/blob/master/The%20Project/humidityvshouseprices.png">
+
 
 
 
