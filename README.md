@@ -27,6 +27,11 @@ In the figure below the dependence of house prices on the year in which they hav
     
 As it can be seen older houses have higher average prices and then the prices decrease and eventually newer houses also have higher average prices. The older houses may be more expensive due to their historical value and newer houses obviously are more expensive.
 
+The houses with 8 bedrooms appear to be have the highest average price.
+
+<img src="https://github.com/kavehamini/Impact_of_weather_on_home_sales/blob/master/The%20Project/housepricesvsbedrooms.png">
+
+
 
 
 
